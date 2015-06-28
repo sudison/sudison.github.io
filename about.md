@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Java developer, CloudStack PMC, wroking on distributed storage for the cloud.
+Java developer, CloudStack PMC, working on distributed storage for the cloud.
 
 ### Contact me
 
