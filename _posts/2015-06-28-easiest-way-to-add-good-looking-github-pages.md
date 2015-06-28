@@ -1,8 +1,13 @@
 ---
 layout: post
-title: the easiet way to add github pages
+title: Hello world
 ---
 
-By
-
-clone [barryclark/jekyll-now](barryclark/jekyll-now)...
+## test
+```java
+public class AClass {
+  public static void main(String[] args) {
+    System.out.println("hello world!");
+  }
+}
+```
