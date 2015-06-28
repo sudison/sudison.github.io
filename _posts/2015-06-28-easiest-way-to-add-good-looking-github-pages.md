@@ -1,13 +1,7 @@
 ---
 layout: post
-title: Hello world
+title: Easiest way to add github pages
 ---
 
 ## test
-```java
-public class AClass {
-  public static void main(String[] args) {
-    System.out.println("hello world!");
-  }
-}
-```
+
