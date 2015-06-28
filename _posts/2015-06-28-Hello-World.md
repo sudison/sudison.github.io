@@ -5,8 +5,8 @@ title: Hello world
 
 ```java
 public class AClass {
-  public static void main(string[] args) {
-    System.io.println("hello world!");
+  public static void main(String[] args) {
+    System.out.println("hello world!");
   }
 }
 ```
