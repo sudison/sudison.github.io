@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello world
+title: the easiet way to add github pages
 ---
 
 By
