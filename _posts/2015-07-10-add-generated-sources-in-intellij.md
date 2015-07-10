@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 ## Add generated-sources directory into intellij
 
