@@ -16,4 +16,5 @@ idea.module {
     sourceDirs += protobufOutputDir
 }
 ```
+
 from [http://stackoverflow.com/a/25725794](http://stackoverflow.com/a/25725794)
