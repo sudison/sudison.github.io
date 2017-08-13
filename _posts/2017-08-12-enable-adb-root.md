@@ -4,7 +4,9 @@ here are the instructions to work arond the issue without flashing a developer b
 1. Android is rooted.
 2. Install adbd insecure: https://forum.xda-developers.com/showthread.php?t=1687590
 3. For android 6+, needs to disable selinux:
+```	
 	adb shell
 	su
 	setenforce 0
-	
+```
+
